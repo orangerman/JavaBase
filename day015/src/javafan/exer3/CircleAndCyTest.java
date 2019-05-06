@@ -4,6 +4,10 @@ package javafan.exer3;
  * @author java_fan
  * @create 2019-05-06 22:27
  */
+
+/**
+ * day015课后练习题
+ */
 public class CircleAndCyTest {
     public static void main(String[] args) {
         Circle c1 = new Circle(3);
