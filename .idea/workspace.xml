@@ -8,8 +8,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b7ed9c2-2a0b-45ec-9eb6-c08ca6c6fef1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day015/src/javafan/test2/InteraceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/day015/src/javafan/test2/InteraceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day015/src/GitHub/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/day015/src/GitHub/Test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,11 +41,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day015/src/javafan/test2/InteraceTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="93" column="21" lean-forward="true" selection-start-line="93" selection-start-column="21" selection-end-line="93" selection-end-column="21" />
+            <state relative-caret-position="574">
+              <caret line="99" selection-start-line="99" selection-end-line="99" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/day015/src/GitHub/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <element signature="e#136#137#0" expanded="true" />
+                <element signature="e#180#181#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -120,9 +132,9 @@
         <option value="$PROJECT_DIR$/day015/src/Jdk8/SuperClass.java" />
         <option value="$PROJECT_DIR$/day015/src/Jdk8/CompareB.java" />
         <option value="$PROJECT_DIR$/day015/src/Jdk8/SubClassTest.java" />
-        <option value="$PROJECT_DIR$/day015/src/GitHub/Test.java" />
         <option value="$PROJECT_DIR$/day015/src/javafan/test/Test.java" />
         <option value="$PROJECT_DIR$/day015/src/javafan/test2/InteraceTest.java" />
+        <option value="$PROJECT_DIR$/day015/src/GitHub/Test.java" />
       </list>
     </option>
   </component>
@@ -148,91 +160,6 @@
             <path>
               <item name="JavaBase" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaBase" type="462c0819:PsiDirectoryNode" />
-              <item name="day014" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaBase" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaBase" type="462c0819:PsiDirectoryNode" />
-              <item name="day014" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaBase" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaBase" type="462c0819:PsiDirectoryNode" />
-              <item name="day014" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="javafan" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaBase" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaBase" type="462c0819:PsiDirectoryNode" />
-              <item name="day014" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="javafan" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaBase" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaBase" type="462c0819:PsiDirectoryNode" />
-              <item name="day014" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="javafan" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="StaticTest.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="JavaBase" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaBase" type="462c0819:PsiDirectoryNode" />
-              <item name="day014" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="javafan" type="462c0819:PsiDirectoryNode" />
-              <item name="test1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaBase" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaBase" type="462c0819:PsiDirectoryNode" />
-              <item name="day014" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="javafan" type="462c0819:PsiDirectoryNode" />
-              <item name="test2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaBase" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaBase" type="462c0819:PsiDirectoryNode" />
-              <item name="day014" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="javafan" type="462c0819:PsiDirectoryNode" />
-              <item name="test3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaBase" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaBase" type="462c0819:PsiDirectoryNode" />
-              <item name="day014" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="javafan" type="462c0819:PsiDirectoryNode" />
-              <item name="test4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaBase" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaBase" type="462c0819:PsiDirectoryNode" />
-              <item name="day014" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="javafan" type="462c0819:PsiDirectoryNode" />
-              <item name="test4" type="462c0819:PsiDirectoryNode" />
-              <item name="FinalTest.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="JavaBase" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaBase" type="462c0819:PsiDirectoryNode" />
-              <item name="day014" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="javafan" type="462c0819:PsiDirectoryNode" />
-              <item name="test4" type="462c0819:PsiDirectoryNode" />
-              <item name="OrderTest.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="JavaBase" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaBase" type="462c0819:PsiDirectoryNode" />
               <item name="day015" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -246,67 +173,7 @@
               <item name="JavaBase" type="462c0819:PsiDirectoryNode" />
               <item name="day015" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="javafan" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaBase" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaBase" type="462c0819:PsiDirectoryNode" />
-              <item name="day015" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="javafan" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaBase" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaBase" type="462c0819:PsiDirectoryNode" />
-              <item name="day015" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="javafan" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="AbstractTest1.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="JavaBase" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaBase" type="462c0819:PsiDirectoryNode" />
-              <item name="day015" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="javafan" type="462c0819:PsiDirectoryNode" />
-              <item name="test1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaBase" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaBase" type="462c0819:PsiDirectoryNode" />
-              <item name="day015" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="javafan" type="462c0819:PsiDirectoryNode" />
-              <item name="test1" type="462c0819:PsiDirectoryNode" />
-              <item name="TemplateTest.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="JavaBase" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaBase" type="462c0819:PsiDirectoryNode" />
-              <item name="day015" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="javafan" type="462c0819:PsiDirectoryNode" />
-              <item name="test2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaBase" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaBase" type="462c0819:PsiDirectoryNode" />
-              <item name="day015" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="javafan" type="462c0819:PsiDirectoryNode" />
-              <item name="test2" type="462c0819:PsiDirectoryNode" />
-              <item name="InteraceTest.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="JavaBase" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaBase" type="462c0819:PsiDirectoryNode" />
-              <item name="day015" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="javafan" type="462c0819:PsiDirectoryNode" />
-              <item name="test2" type="462c0819:PsiDirectoryNode" />
-              <item name="InterfaceExtendsTest.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="GitHub" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -451,7 +318,7 @@
       <workItem from="1557117020724" duration="6188000" />
       <workItem from="1557123711780" duration="2817000" />
       <workItem from="1557128128339" duration="2275000" />
-      <workItem from="1557143609451" duration="3267000" />
+      <workItem from="1557143609451" duration="3328000" />
     </task>
     <task id="LOCAL-00001" summary="JavaBase代码整合">
       <created>1557128443498</created>
@@ -481,11 +348,18 @@
       <option name="project" value="LOCAL" />
       <updated>1557129600058</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="JavaBase代码整合">
+      <created>1557146907332</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1557146907332</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67762000" />
+    <option name="totallyTimeSpent" value="67823000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2552" y="-378" width="1936" height="1066" extended-state="6" />
@@ -905,17 +779,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day015/src/GitHub/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#136#137#0" expanded="true" />
-            <element signature="e#180#181#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/day014/src/javafan/test4/FinalTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1496">
@@ -973,8 +836,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day015/src/javafan/test2/InteraceTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="93" column="21" lean-forward="true" selection-start-line="93" selection-start-column="21" selection-end-line="93" selection-end-column="21" />
+        <state relative-caret-position="574">
+          <caret line="99" selection-start-line="99" selection-end-line="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day015/src/GitHub/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#136#137#0" expanded="true" />
+            <element signature="e#180#181#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
