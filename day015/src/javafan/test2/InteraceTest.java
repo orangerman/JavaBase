@@ -25,16 +25,15 @@ package javafan.test2;
  * 如果没有对所有抽象方法进行覆盖，则该实现类只能是抽象类
  * <p>
  * 7.Java类可以实现多个接口 -- >弥补了单继承性的局限性
- *  格式：class A extends B implements C ，D
- *
+ * 格式：class A extends B implements C ，D
+ * <p>
  * 8.接口和接口之间：
  * 多继承关系
  * 一个接口可以继承多个接口
- *
+ * <p>
  * 9.接口的具体的使用：可以体现多态性
- *
+ * <p>
  * 10.接口，实际上是一种规范
- *
  */
 public class InteraceTest {
     public static void main(String[] args) {
@@ -44,6 +43,7 @@ public class InteraceTest {
         Plane p1 = new Plane();
         p1.fly();
 //        Kite k1 = new Kite(); 抽象类不能实例化 要实例化全部抽象方法都的重写
+
 
     }
 }
@@ -88,7 +88,8 @@ abstract class Kite implements Flyably {
 
     }
 }
-class Bullet implements Flyably,Accackable{
+
+class Bullet implements Flyably, Accackable {
     @Override
     public void fly() {
 
