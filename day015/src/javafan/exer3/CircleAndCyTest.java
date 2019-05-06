@@ -6,7 +6,7 @@ package javafan.exer3;
  */
 
 /**
- * day015课后练习题
+ * day015课后练习题000
  */
 public class CircleAndCyTest {
     public static void main(String[] args) {
