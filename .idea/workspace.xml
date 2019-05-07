@@ -8,7 +8,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b7ed9c2-2a0b-45ec-9eb6-c08ca6c6fef1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/day015/src/javafan/exer3/CircleAndCyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/day015/src/javafan/exer3/CircleAndCyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,52 +31,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day015/src/javafan/exer3/shape.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day015/src/javafan/exer3/Circle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-              <folding>
-                <element signature="e#364#365#0" expanded="true" />
-                <element signature="e#402#403#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day015/src/javafan/exer3/Cylinder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="484">
-              <caret line="27" column="35" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
-              <folding>
-                <element signature="e#496#497#0" expanded="true" />
-                <element signature="e#538#539#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/day015/src/javafan/exer3/CircleAndCyTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -151,9 +106,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="366" />
-    <option name="y" value="76" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="365" />
+    <option name="y" value="75" />
     <option name="width" value="1870" />
     <option name="height" value="1705" />
   </component>
@@ -163,7 +118,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -174,34 +129,19 @@
             <path>
               <item name="JavaBase" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaBase" type="462c0819:PsiDirectoryNode" />
-              <item name="day015" type="462c0819:PsiDirectoryNode" />
+              <item name="day016" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaBase" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaBase" type="462c0819:PsiDirectoryNode" />
-              <item name="day015" type="462c0819:PsiDirectoryNode" />
+              <item name="day016" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaBase" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaBase" type="462c0819:PsiDirectoryNode" />
-              <item name="day015" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="javafan" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaBase" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaBase" type="462c0819:PsiDirectoryNode" />
-              <item name="day015" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="javafan" type="462c0819:PsiDirectoryNode" />
-              <item name="exer3" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -340,7 +280,8 @@
       <workItem from="1557123711780" duration="2817000" />
       <workItem from="1557128128339" duration="2275000" />
       <workItem from="1557143609451" duration="8821000" />
-      <workItem from="1557154105261" duration="172000" />
+      <workItem from="1557154105261" duration="339000" />
+      <workItem from="1557215139870" duration="714000" />
     </task>
     <task id="LOCAL-00001" summary="JavaBase代码整合">
       <created>1557128443498</created>
@@ -454,17 +395,23 @@
       <option name="project" value="LOCAL" />
       <updated>1557154173356</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="JavaBase代码整合&#10;  测试提交修改文件&#10;  提交课后习题&#10;  加以&#10;  1&#10;  可以">
+      <created>1557154305634</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1557154305634</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73488000" />
+    <option name="totallyTimeSpent" value="74369000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="2000" height="1166" extended-state="6" />
-    <editor active="true" />
+    <frame x="292" y="60" width="1496" height="1364" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16117404" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21974966" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -818,13 +765,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day015/src/javafan/test/Test.java" />
-    <entry file="file://$PROJECT_DIR$/day015/src/javafan/test/AbstractTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1188">
-          <caret line="56" column="6" selection-start-line="56" selection-start-column="6" selection-end-line="56" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/day015/src/javafan/test/AbstractTest1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
@@ -903,13 +843,6 @@
     <entry file="file://$PROJECT_DIR$/day015/src/GitHub/Test.java" />
     <entry file="file://$PROJECT_DIR$/day015/src/GitHub/Fanzhiqiang.java" />
     <entry file="file://$PROJECT_DIR$/day015/src/javafan/exer3/Shap.java" />
-    <entry file="file://$PROJECT_DIR$/day015/src/javafan/test2/InteraceTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="48" column="1" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/day015/src/javafan/exer3/shape.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
@@ -941,8 +874,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day015/src/javafan/exer3/CircleAndCyTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        <state relative-caret-position="484">
+          <caret line="22" column="10" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day015/src/javafan/test2/InteraceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="770">
+          <caret line="35" column="17" selection-start-line="8" selection-start-column="3" selection-end-line="35" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day015/src/javafan/test/AbstractTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
         </state>
       </provider>
     </entry>
