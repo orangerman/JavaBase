@@ -8,6 +8,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b7ed9c2-2a0b-45ec-9eb6-c08ca6c6fef1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/day016/src/javafan/test/ErrorTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -31,7 +32,17 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/day016/src/javafan/test/ErrorTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -52,7 +63,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Project2/src/Customer.java" />
         <option value="$PROJECT_DIR$/Project2/src/CustomerList.java" />
         <option value="$PROJECT_DIR$/Project2/src/CustomerView.java" />
         <option value="$PROJECT_DIR$/Project2/src/CMUtility.java" />
@@ -103,12 +113,13 @@
         <option value="$PROJECT_DIR$/day015/src/javafan/exer3/Circle.java" />
         <option value="$PROJECT_DIR$/day015/src/javafan/exer3/Cylinder.java" />
         <option value="$PROJECT_DIR$/day015/src/javafan/exer3/CircleAndCyTest.java" />
+        <option value="$PROJECT_DIR$/day016/src/javafan/test/ErrorTest.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="365" />
-    <option name="y" value="75" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="305" />
+    <option name="y" value="285" />
     <option name="width" value="1870" />
     <option name="height" value="1705" />
   </component>
@@ -118,7 +129,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -137,11 +148,18 @@
               <item name="day016" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="JavaBase" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaBase" type="462c0819:PsiDirectoryNode" />
+              <item name="day016" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -282,6 +300,9 @@
       <workItem from="1557143609451" duration="8821000" />
       <workItem from="1557154105261" duration="339000" />
       <workItem from="1557215139870" duration="714000" />
+      <workItem from="1557224569480" duration="1652000" />
+      <workItem from="1557228744440" duration="611000" />
+      <workItem from="1557293900533" duration="732000" />
     </task>
     <task id="LOCAL-00001" summary="JavaBase代码整合">
       <created>1557128443498</created>
@@ -402,16 +423,24 @@
       <option name="project" value="LOCAL" />
       <updated>1557154305634</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="JavaBase代码整合&#10;  测试提交修改文件&#10;  提交课后习题&#10;  加以&#10;  1&#10;  可以&#10;  2">
+      <created>1557224602439</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1557224602439</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74369000" />
+    <option name="totallyTimeSpent" value="77364000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="292" y="60" width="1496" height="1364" extended-state="0" />
+    <frame x="-7" y="-7" width="2000" height="1166" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21974966" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16786818" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -454,7 +483,8 @@
     <MESSAGE value="JavaBase代码整合&#10;测试提交修改文件&#10;提交课后习题&#10;加以" />
     <MESSAGE value="JavaBase代码整合&#10;  测试提交修改文件&#10;  提交课后习题&#10;  加以&#10;  1" />
     <MESSAGE value="JavaBase代码整合&#10;  测试提交修改文件&#10;  提交课后习题&#10;  加以&#10;  1&#10;  可以" />
-    <option name="LAST_COMMIT_MESSAGE" value="JavaBase代码整合&#10;  测试提交修改文件&#10;  提交课后习题&#10;  加以&#10;  1&#10;  可以" />
+    <MESSAGE value="JavaBase代码整合&#10;  测试提交修改文件&#10;  提交课后习题&#10;  加以&#10;  1&#10;  可以&#10;  2" />
+    <option name="LAST_COMMIT_MESSAGE" value="JavaBase代码整合&#10;  测试提交修改文件&#10;  提交课后习题&#10;  加以&#10;  1&#10;  可以&#10;  2" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/JavaBase$MainDemo.ic" NAME="MainDemo Coverage Results" MODIFIED="1556963251118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
@@ -462,13 +492,6 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/day013/src/javafan/test3/GeometricObject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/day013/src/javafan/test3/Circle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="528">
@@ -890,6 +913,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="500">
           <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day016/src/javafan/test/ErrorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
         </state>
       </provider>
     </entry>
