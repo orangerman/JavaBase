@@ -27,6 +27,12 @@ public class Archhitect extends Designer {
 
     @Override
     public String toString() {
-        return getDetils()+"\t架构师\t"+getStatus()+"\t"+stock+"\t"+getEquiment().getDescription();
+        return getDetils()+"\t架构师\t"+getStatus()+"\t"+(int)getBonus()+"\t"+stock+"\t"+getEquiment().getDescription();
     }
+
+    @Override
+    public String getDetailsForTeam() {
+        return getMemberId()+"/"+getId()+"\t"+getName()+"\t"+getAge()+"\t"+getSalary()+"\t"+"架构师"+getBonus()+"\t"+getStock();
+    }
+
 }

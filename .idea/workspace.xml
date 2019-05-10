@@ -8,11 +8,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b7ed9c2-2a0b-45ec-9eb6-c08ca6c6fef1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Project03/src/team/view/TeamView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Project03/team/view/TeamView.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project03/src/team/server/TeamService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Project03/src/team/server/TeamService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Project03/team/server/TeamService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project03/team/server/TeamService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project03/src/team/domain/Archhitect.java" beforeDir="false" afterPath="$PROJECT_DIR$/Project03/src/team/domain/Archhitect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project03/src/team/domain/Designer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Project03/src/team/domain/Designer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project03/src/team/domain/Programmer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Project03/src/team/domain/Programmer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project03/src/team/view/TeamView.java" beforeDir="false" afterPath="$PROJECT_DIR$/Project03/src/team/view/TeamView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project03/team/view/TeamView.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project03/team/view/TeamView.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,18 +51,49 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Project03/src/team/domain/Employee.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="382">
+              <caret line="58" column="30" selection-start-line="58" selection-start-column="30" selection-end-line="58" selection-end-column="30" />
+              <folding>
+                <element signature="e#948#949#0" expanded="true" />
+                <element signature="e#1007#1008#0" expanded="true" />
+                <element signature="e#1052#1053#0" expanded="true" />
+                <element signature="e#1086#1087#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Project03/src/team/view/TeamView.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="482">
-              <caret line="42" column="12" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
+            <state relative-caret-position="217">
+              <caret line="76" column="40" lean-forward="true" selection-start-line="76" selection-start-column="40" selection-end-line="76" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1317#1318#0" expanded="true" />
-                <element signature="e#1393#1394#0" expanded="true" />
-                <element signature="e#1467#1468#0" expanded="true" />
-                <element signature="e#1544#1545#0" expanded="true" />
+                <element signature="e#2593#2594#0" expanded="true" />
+                <element signature="e#2670#2671#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Project03/src/team/domain/Programmer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="549">
+              <caret line="57" column="5" lean-forward="true" selection-start-line="55" selection-start-column="4" selection-end-line="57" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Project03/src/team/domain/Designer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="38" column="5" lean-forward="true" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -71,6 +103,62 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
               <caret line="34" column="42" selection-start-line="34" selection-start-column="15" selection-end-line="34" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Project03/src/team/server/Status.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="484">
+              <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+              <folding>
+                <element signature="e#178#179#0" expanded="true" />
+                <element signature="e#211#212#0" expanded="true" />
+                <element signature="e#427#428#0" expanded="true" />
+                <element signature="e#454#455#0" expanded="true" />
+                <element signature="e#500#501#0" expanded="true" />
+                <element signature="e#527#528#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Project03/src/team/domain/Archhitect.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="682">
+              <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Project03/src/team/server/TeamService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1819">
+              <caret line="30" column="7" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Project03/src/team/test/NameListServiceTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Project03/src/team/server/Data.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="14" column="44" lean-forward="true" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -140,21 +228,21 @@
         <option value="$PROJECT_DIR$/Project03/src/team/domain/Employee.java" />
         <option value="$PROJECT_DIR$/Project03/src/team/server/Data.java" />
         <option value="$PROJECT_DIR$/Project03/src/team/server/Status.java" />
-        <option value="$PROJECT_DIR$/Project03/src/team/domain/Programmer.java" />
-        <option value="$PROJECT_DIR$/Project03/src/team/domain/Archhitect.java" />
         <option value="$PROJECT_DIR$/Project03/src/team/server/NameListService.java" />
-        <option value="$PROJECT_DIR$/Project03/src/team/domain/Designer.java" />
         <option value="$PROJECT_DIR$/Project03/src/team/test/NameListServiceTest.java" />
         <option value="$PROJECT_DIR$/Project03/src/team/server/TeamService.java" />
+        <option value="$PROJECT_DIR$/Project03/src/team/domain/Programmer.java" />
+        <option value="$PROJECT_DIR$/Project03/src/team/domain/Designer.java" />
+        <option value="$PROJECT_DIR$/Project03/src/team/domain/Archhitect.java" />
         <option value="$PROJECT_DIR$/Project03/src/team/view/TeamView.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds">
     <option name="x" value="47" />
     <option name="y" value="23" />
     <option name="width" value="1920" />
-    <option name="height" value="973" />
+    <option name="height" value="977" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -233,6 +321,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
@@ -375,7 +464,7 @@
       <workItem from="1557419969208" duration="90000" />
       <workItem from="1557455994541" duration="8546000" />
       <workItem from="1557468347587" duration="148000" />
-      <workItem from="1557475708525" duration="2866000" />
+      <workItem from="1557475708525" duration="6298000" />
     </task>
     <task id="LOCAL-00001" summary="JavaBase代码整合">
       <created>1557128443498</created>
@@ -545,14 +634,22 @@
       <option name="project" value="LOCAL" />
       <updated>1557394613037</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="JavaBase代码整合&#10;  测试提交修改文件&#10;  提交课后习题&#10;  加以&#10;  1&#10;  可以&#10;  2&#10;  异常处理&#10;  异常处理举例&#10;  try catch&#10;  project3 的初建&#10;  框架初步搭建">
+      <created>1557478647302</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1557478647302</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="107529000" />
+    <option name="totallyTimeSpent" value="110961000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
+    <frame x="47" y="23" width="1920" height="973" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18530351" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -563,7 +660,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.499501" visible="true" weight="0.27558258" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.499501" weight="0.31610942" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.24113475" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -603,7 +700,8 @@
     <MESSAGE value="JavaBase代码整合&#10;  测试提交修改文件&#10;  提交课后习题&#10;  加以&#10;  1&#10;  可以&#10;  2&#10;  异常处理&#10;  异常处理举例" />
     <MESSAGE value="JavaBase代码整合&#10;  测试提交修改文件&#10;  提交课后习题&#10;  加以&#10;  1&#10;  可以&#10;  2&#10;  异常处理&#10;  异常处理举例&#10;  try catch" />
     <MESSAGE value="JavaBase代码整合&#10;  测试提交修改文件&#10;  提交课后习题&#10;  加以&#10;  1&#10;  可以&#10;  2&#10;  异常处理&#10;  异常处理举例&#10;  try catch&#10;  project3 的初建" />
-    <option name="LAST_COMMIT_MESSAGE" value="JavaBase代码整合&#10;  测试提交修改文件&#10;  提交课后习题&#10;  加以&#10;  1&#10;  可以&#10;  2&#10;  异常处理&#10;  异常处理举例&#10;  try catch&#10;  project3 的初建" />
+    <MESSAGE value="JavaBase代码整合&#10;  测试提交修改文件&#10;  提交课后习题&#10;  加以&#10;  1&#10;  可以&#10;  2&#10;  异常处理&#10;  异常处理举例&#10;  try catch&#10;  project3 的初建&#10;  框架初步搭建" />
+    <option name="LAST_COMMIT_MESSAGE" value="JavaBase代码整合&#10;  测试提交修改文件&#10;  提交课后习题&#10;  加以&#10;  1&#10;  可以&#10;  2&#10;  异常处理&#10;  异常处理举例&#10;  try catch&#10;  project3 的初建&#10;  框架初步搭建" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -901,50 +999,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Project03/src/team/domain/Employee.java">
+    <entry file="file://$PROJECT_DIR$/Project03/src/team/server/TeamException.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="902">
-          <caret line="58" column="30" selection-start-line="58" selection-start-column="30" selection-end-line="58" selection-end-column="30" />
+        <state relative-caret-position="330">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
           <folding>
-            <element signature="e#948#949#0" expanded="true" />
-            <element signature="e#1007#1008#0" expanded="true" />
-            <element signature="e#1052#1053#0" expanded="true" />
-            <element signature="e#1086#1087#0" expanded="true" />
+            <element signature="e#278#279#0" expanded="true" />
+            <element signature="e#304#305#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Project03/src/team/domain/Programmer.java">
+    <entry file="file://$PROJECT_DIR$/Project03/src/team/server/NameListService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Project03/src/team/domain/Designer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="33" column="70" selection-start-line="33" selection-start-column="70" selection-end-line="33" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Project03/src/team/domain/Archhitect.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="89" selection-start-line="14" selection-start-column="89" selection-end-line="14" selection-end-column="89" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Project03/src/team/server/Data.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="26" column="49" selection-start-line="26" selection-start-column="49" selection-end-line="26" selection-end-column="49" />
+        <state relative-caret-position="195">
+          <caret line="94" column="39" selection-start-line="94" selection-start-column="39" selection-end-line="94" selection-end-column="39" />
+          <folding>
+            <element signature="e#2838#2839#0" expanded="true" />
+            <element signature="e#2870#2871#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Project03/src/team/server/Status.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
+        <state relative-caret-position="484">
           <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
           <folding>
             <element signature="e#178#179#0" expanded="true" />
@@ -957,31 +1036,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Project03/src/team/server/NameListService.java">
+    <entry file="file://$PROJECT_DIR$/Project03/src/team/view/TSUtility.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2398">
-          <caret line="111" selection-start-line="111" selection-end-line="111" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Project03/src/team/server/TeamException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-          <folding>
-            <element signature="e#278#279#0" expanded="true" />
-            <element signature="e#304#305#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Project03/src/team/server/TeamService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1596">
-          <caret line="30" column="7" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="306">
+          <caret line="34" column="42" selection-start-line="34" selection-start-column="15" selection-end-line="34" selection-end-column="42" />
         </state>
       </provider>
     </entry>
@@ -992,23 +1050,65 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Project03/src/team/view/TSUtility.java">
+    <entry file="file://$PROJECT_DIR$/Project03/src/team/server/Data.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="34" column="42" selection-start-line="34" selection-start-column="15" selection-end-line="34" selection-end-column="42" />
+        <state relative-caret-position="308">
+          <caret line="14" column="44" lean-forward="true" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project03/src/team/domain/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="58" column="30" selection-start-line="58" selection-start-column="30" selection-end-line="58" selection-end-column="30" />
+          <folding>
+            <element signature="e#948#949#0" expanded="true" />
+            <element signature="e#1007#1008#0" expanded="true" />
+            <element signature="e#1052#1053#0" expanded="true" />
+            <element signature="e#1086#1087#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project03/src/team/server/TeamService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1819">
+          <caret line="30" column="7" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project03/src/team/domain/Programmer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="549">
+          <caret line="57" column="5" lean-forward="true" selection-start-line="55" selection-start-column="4" selection-end-line="57" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project03/src/team/domain/Designer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="38" column="5" lean-forward="true" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project03/src/team/domain/Archhitect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Project03/src/team/view/TeamView.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="482">
-          <caret line="42" column="12" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
+        <state relative-caret-position="217">
+          <caret line="76" column="40" lean-forward="true" selection-start-line="76" selection-start-column="40" selection-end-line="76" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1317#1318#0" expanded="true" />
-            <element signature="e#1393#1394#0" expanded="true" />
-            <element signature="e#1467#1468#0" expanded="true" />
-            <element signature="e#1544#1545#0" expanded="true" />
+            <element signature="e#2593#2594#0" expanded="true" />
+            <element signature="e#2670#2671#0" expanded="true" />
           </folding>
         </state>
       </provider>

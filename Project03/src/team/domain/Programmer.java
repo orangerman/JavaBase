@@ -51,6 +51,9 @@ public class Programmer extends Employee {
     @Override
     public String toString() {
 
-        return super.toString() + "\t程序员\t" + status + "\t\t\t" + equiment.getDescription();
+        return super.toString() + "\t程序员\t" + status + "\t\t\t\t\t" + equiment.getDescription();
+    }
+    public String getDetailsForTeam(){
+        return memberId+"/"+getId()+"\t"+getName()+"\t"+getAge()+"\t"+getSalary()+"程序员";
     }
 }
