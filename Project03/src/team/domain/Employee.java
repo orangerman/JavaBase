@@ -13,7 +13,7 @@ public class Employee {
     private double salary;
 
 
-    public Employee(){
+    public Employee() {
 
     }
 
@@ -54,5 +54,12 @@ public class Employee {
 
     public void setSalary(double salary) {
         this.salary = salary;
+    }
+public String getDetils(){
+   return id + "\t" + name + "\t" + age + "\t" + salary;
+}
+    @Override
+    public String toString() {
+        return getDetils();
     }
 }

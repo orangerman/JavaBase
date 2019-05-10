@@ -14,5 +14,12 @@ public class Status {
     public static final  Status BUSY = new Status("BUSY");
     public static final  Status VOCATION = new Status("VACATION");
 
+    public String getNAME() {
+        return NAME;
+    }
 
+    @Override
+    public String toString() {
+        return NAME;
+    }
 }

@@ -13,9 +13,9 @@ public class NameListService {
     /**
      * 给数组及数组元素赋值
      *
-     * @param employees
+     * @param
      */
-    public NameListService(Employee[] employees) {
+    public NameListService() {
         employees = new Employee[Data.EMPLOYEES.length];
         for (int i = 0; i < employees.length; i++) {
             int type = Integer.parseInt(Data.EMPLOYEES[i][0]);
@@ -27,7 +27,7 @@ public class NameListService {
             int age = Integer.parseInt(Data.EMPLOYEES[i][3]);
             double salary = Double.parseDouble(Data.EMPLOYEES[i][4]);
             Equiment equiment;
-            double bonus;
+            int bonus;
             int stock;
             switch (type) {
                 case Data.EMPLOYEE:
@@ -37,16 +37,17 @@ public class NameListService {
                 case Data.PROGRAMMER:
                     equiment = createEquipment(i);
                     employees[i] = new Programmer(id, name, age, salary, equiment);
+                    break;
                 case Data.ARCHITECT:
                     equiment = createEquipment(i);
-                    bonus = Double.parseDouble(Data.EMPLOYEES[i][5]);
+                    bonus =Integer.parseInt(Data.EMPLOYEES[i][5]);
                     stock = Integer.parseInt(Data.EMPLOYEES[i][6]);
 
                     employees[i] = new Archhitect(id, name, age, salary, equiment, bonus, stock);
                     break;
                 case Data.DESIGNER:
                     equiment = createEquipment(i);
-                    bonus = Double.parseDouble(Data.EMPLOYEES[i][5]);
+                    bonus = Integer.parseInt(Data.EMPLOYEES[i][5]);
                     employees[i] = new Designer(id, name, age, salary, equiment, bonus);
                     break;
                 default:
@@ -87,7 +88,27 @@ public class NameListService {
         }
     }
 
+    /**
+     * 获取所有员工信息
+     * @return
+     */
     public Employee[] getAllEmployees() {
-        return null;
+        return employees;
+    }
+
+    /**
+     * 获取指定ID的员工信息
+     * @param id
+     * @return
+     * @throws TeamException
+     */
+    public Employee getEmployee(int id) throws TeamException {
+        for(int i =  0 ;i < employees.length; i ++){
+            if(employees[i].getId() == id){
+                return employees[i];
+            }
+        }
+        throw new TeamException("找不到指定的员工");
+
     }
 }

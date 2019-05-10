@@ -9,14 +9,14 @@ public class Designer extends Programmer {
     /**
      * 奖金
      */
-    private double bonus;
+    private int bonus;
 
 
    public Designer(){
 
    }
 
-    public Designer(int id, String name, int age, double salary, Equiment equiment, double bonus) {
+    public Designer(int id, String name, int age, double salary, Equiment equiment, int bonus) {
         super(id, name, age, salary, equiment);
         this.bonus = bonus;
     }
@@ -25,7 +25,12 @@ public class Designer extends Programmer {
         return bonus;
     }
 
-    public void setBonus(double bonus) {
+    public void setBonus(int  bonus) {
         this.bonus = bonus;
+    }
+
+    @Override
+    public String toString() {
+        return getDetils() + "\t设计师"+"\t"+ getStatus()+ "\t"+bonus+"\t"+getEquiment().getDescription();
     }
 }
