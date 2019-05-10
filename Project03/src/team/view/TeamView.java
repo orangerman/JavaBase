@@ -3,6 +3,7 @@ package team.view;
 import team.domain.Employee;
 import team.domain.Programmer;
 import team.server.NameListService;
+import team.server.TeamException;
 import team.server.TeamService;
 
 /**
@@ -53,7 +54,6 @@ public class TeamView {
      * 显式所有员工信息
      */
     private void listAllEmployees() {
-//        System.out.println("显式所有员工信息");
         System.out.println("*************************开发团队调度软件************************\n");
         Employee[] employees = listSvc.getAllEmployees();
         System.out.println("ID\t姓名\t\t年龄\t工资\t\t职位\t\t状态\t\t奖金\t\t股票\t\t领用设备");
@@ -66,14 +66,13 @@ public class TeamView {
     }
 
     private void getTeam() {
-//        System.out.println("查看开发团队情况");
         System.out.println("************************团队成员列表****************************\n");
         Programmer[] team = teamSvc.getTeam();
         if (team == null || team.length == 0) {
             System.out.println("开发团队目前没有人");
         } else {
-            System.out.println("TID/ID 姓名  年龄 工资 职位 奖金 股票\n");
-            for (int i = 0;i < team.length;i ++){
+            System.out.println("TID/ID 姓名  年龄 工资  职位  奖金 股票\n");
+            for (int i = 0; i < team.length; i++) {
                 System.out.println(team[i].getDetailsForTeam());
             }
         }
@@ -82,11 +81,39 @@ public class TeamView {
     }
 
     private void addTeam() {
-        System.out.println("添加团队成员");
+        System.out.println("***************************添加成员*******************************");
+        System.out.println("请输入要添加的员工的ID");
+        int id = TSUtility.readInt();
+        try {
+            Employee employee = listSvc.getEmployee(id);
+            teamSvc.addMember(employee);
+            System.out.println("添加成功");
+        } catch (TeamException e) {
+            System.out.println("添加失败，原因：" + e.getMessage());
+
+        }
+        TSUtility.readReturn();
     }
 
     private void deleteTeam() {
-        System.out.println("删除团队成员");
+        System.out.println("***************************删除成员*******************************");
+        System.out.println("请输入要删除的员工的TID");
+        int memberID = TSUtility.readInt();
+        System.out.println("确认是否删除(Y/N)：");
+
+        char isDelete = TSUtility.readConfirmSelection();
+        if(isDelete == 'N'){
+            return;
+        }else {
+            try {
+                teamSvc.removeMember(memberID);
+                System.out.println("删除成功");
+            } catch (TeamException e) {
+                System.out.println("删除失败，原因：" + e.getMessage());
+            }
+        }
+        //按回车键继续
+        TSUtility.readReturn();
     }
 
     public static void main(String[] args) {
